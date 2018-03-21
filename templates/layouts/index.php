@@ -420,7 +420,6 @@ HTML;
                 }
             };
 
-
             container.style.display = 'block';
             form.elements.text.focus();
         }
